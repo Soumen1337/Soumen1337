@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/dd/15/70/dd157089accafc2808d8e32e5122f457.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/dd/15/70/dd157089accafc2808d8e32e5122f457.gif"/>
 
 ###
 
@@ -50,6 +50,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Soumen1337/Soumen1337/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
